@@ -57,12 +57,12 @@ El script:
 1. Clona este repositorio o descarga el archivo del script.
 2. Asegúrate de que el script tenga permisos de ejecución:
    ```bash
-   chmod +x renombrar_subtitulos.sh
+   chmod +x name.sh
    ```
 3. Coloca el script en el mismo directorio donde están los archivos `.mp4`.
 4. Ejecuta el script:
    ```bash
-   ./renombrar_subtitulos.sh
+   ./name.sh
    ```
 
 ### Configuración
